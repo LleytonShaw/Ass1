@@ -1,6 +1,6 @@
 html, body {
   background: #303138;
-  font-family:times;
+  font-family:helvetica;
   font-size: 16px;
   color: #000000;
 }
@@ -16,7 +16,7 @@ p {
 #container {
 	width: 90%;
 	max-width: 800px;
-	background: #54577C;
+	background: #568EA3;
 	margin: 30px auto;
   padding: 30px;
   }
